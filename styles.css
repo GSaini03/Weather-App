@@ -88,4 +88,6 @@ h5 {
 #madeBy {
   color: rgb(139, 139, 139);
   margin-left: 20px;
+  font-size: 12px;
+  text-align: center;
 }
